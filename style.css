@@ -1,9 +1,43 @@
-body {
-    background-color: powderblue;
+h1{
+    color: White;
+}
+
+
+
+
+p {
+    color: black;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 20;
   }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+
+ul#ul li{
+      display:inline
+    }
+
+ul{
+        text-align: center;
+    }
+
+
+
+li a{
+        padding: 20px;
+        font-size: 30;
+        text-decoration: none;
+        color: white;
+    }
+.bg{
+    text-align:center;
+}
+body{
+    background-image: url('test.jpeg');
+}
+
+      
+
+
+
+
